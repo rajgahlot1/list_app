@@ -95,7 +95,7 @@ function TodoList() {
         <div className={`collapse hideform ${form ? "show" : ""}`}>
           <form
             onSubmit={submitContact}
-            className="p-3 bg-danger d-flex flex-column align-items-center justify-content-center gap-2"
+            className="p-3 mt-5 bg-danger d-flex flex-column align-items-center justify-content-center gap-2"
           >
             <input
               onChange={inpdata}
