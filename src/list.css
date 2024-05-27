@@ -1,0 +1,7 @@
+.hideform{
+    position:absolute;
+    box-shadow: 0 0 10px 2px rgb(230, 71, 71);
+    
+    backdrop-filter:blur(10px);
+    top:200px;
+}
